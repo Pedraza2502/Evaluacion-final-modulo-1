@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="0.4"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="#20206b" filter="url(#svg_1_blur)" font-family="Sans-serif" font-size="24" font-style="italic" font-weight="bold" id="svg_1" opacity="0.78" stroke="#bc0909" stroke-dasharray="5,2,2,2" stroke-linejoin="bevel" stroke-width="0" text-anchor="middle" transform="rotate(-10 150.96 83.9678) matrix(6.43182 0 0 5.25926 -1241.78 -900.5)" x="216.03959" xml:space="preserve" y="195.549296">HFP</text>
+ </g>
+</svg>
